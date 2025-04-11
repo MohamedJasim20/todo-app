@@ -28,3 +28,8 @@ A clean and simple **To-Do List** app built with **React Native** and **Expo**. 
 ```bash
 git clone https://github.com/MohamedJasim20/todo-app.git
 cd todo-app
+
+## 🖼️ UI Preview
+
+![Todo List Screenshot](./assets/IMG_8916.png)
+
