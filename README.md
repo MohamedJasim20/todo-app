@@ -31,5 +31,5 @@ cd todo-app
 
 ## 🖼️ UI Preview
 
-![Todo List Screenshot](./assets/IMG_8916.png)
+![Todo List Screenshot]("https://github.com/MohamedJasim20/todo-app/blob/main/assets/IMG_8916.png")
 
